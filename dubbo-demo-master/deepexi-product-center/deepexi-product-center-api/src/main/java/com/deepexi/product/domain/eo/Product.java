@@ -3,6 +3,9 @@ package com.deepexi.product.domain.eo;
 import com.deepexi.util.mapper.SuperEntity;
 
 public class Product extends SuperEntity {
+
+    //22222
+
     /**
      * 名称
      */
