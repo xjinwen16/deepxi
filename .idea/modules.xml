@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/deepexi.iml" filepath="$PROJECT_DIR$/.idea/deepexi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center-api/deepexi-product-center-api.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center-api/deepexi-product-center-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center-provider/deepexi-product-center-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-product-center/deepexi-product-center-provider/deepexi-product-center-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center-api/deepexi-user-center-api.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center-api/deepexi-user-center-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center-provider/deepexi-user-center-provider.iml" filepath="$PROJECT_DIR$/dubbo-demo-master/deepexi-user-center/deepexi-user-center-provider/deepexi-user-center-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/optimus-commons-master/optimus-common.iml" filepath="$PROJECT_DIR$/optimus-commons-master/optimus-common.iml" />
+    </modules>
+  </component>
+</project>
